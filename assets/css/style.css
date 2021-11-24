@@ -8,11 +8,13 @@
 text-align: justify;    
 }
 
+.ground{
+    background-color:rgb(175, 189, 176);
+}
 .container{
     display: flex;
     flex-flow: row ;
     justify-content: center;
-    background-color:rgb(175, 189, 176);
     align-items: center;
 }
 
@@ -23,7 +25,9 @@ text-align: justify;
     padding: 15px;
 }
 
+
 #menu li a{
+
     text-decoration: none;
     color: rgb(11, 1, 19);
 }
